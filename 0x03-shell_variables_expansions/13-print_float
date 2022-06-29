@@ -1,6 +1,3 @@
 #!/bin/bash
 printf '%.2f\n' $NUM
-<<<<<<< HEAD
-=======
 
->>>>>>> 3adb8ea727e6b0e574456ba41dd81f09fa34bcee
